@@ -10,3 +10,9 @@ I targetted Beach Buggy game's pc's version, it's light weight and runs on simpl
 •	For power/boost presses - 'z'
 •	For Character Power presses - 'A'
 The whole system is going to be powered from a USB cable that plugs into arduino and goes to all other components. This makes the design more reliable and super cool.
+
+#### Video Demo:
+https://youtu.be/NzfHxzomoY0
+
+#### Written Tutorial:
+tinyurl.com/y32l5okt
