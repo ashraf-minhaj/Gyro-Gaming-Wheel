@@ -1,12 +1,10 @@
-/*
- * In short:
-
-left arrow: 37
-up arrow: 38
-right arrow: 39
-down arrow: 40
-
-
+/*** PCB Steer Gaming Wheel ***
+ *  
+ *  Author: Ashraf Minhaj
+ *  Mail: ashraf_minhaj@yahoo.com
+ *  
+ *  Licence: Copyright (C) Ashraf Minhaj
+ *  GNU General Public License v3.0
  */
 
 #include <Keyboard.h>
